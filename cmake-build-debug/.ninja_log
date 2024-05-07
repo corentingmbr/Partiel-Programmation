@@ -1,15 +1,7 @@
 # ninja log v5
-2	67	7367720429717928	CMakeFiles/Partiel_Programmation.dir/main.c.obj	773fc8dd5ae642fb
+1	69	7367748782800029	CMakeFiles/Partiel_Programmation.dir/main.c.obj	773fc8dd5ae642fb
 8	62	7367713371623935	CMakeFiles/Partiel_Programmation.dir/Exercice_2.c.obj	f25bfb779d573d23
-67	140	7367720430419066	Partiel_Programmation.exe	399c39e026235345
-1	147	7367721256454811	build.ninja	e3ae243533c9c54f
-1	90	7367725109778777	CMakeFiles/Partiel_Programmation.dir/main.c.obj	773fc8dd5ae642fb
-91	178	7367725110606183	Partiel_Programmation.exe	399c39e026235345
-2	81	7367725970043361	CMakeFiles/Partiel_Programmation.dir/main.c.obj	773fc8dd5ae642fb
-81	159	7367725970799051	Partiel_Programmation.exe	399c39e026235345
-2	82	7367726268526492	CMakeFiles/Partiel_Programmation.dir/main.c.obj	773fc8dd5ae642fb
-83	157	7367726269233446	Partiel_Programmation.exe	399c39e026235345
-2	70	7367727066089540	CMakeFiles/Partiel_Programmation.dir/main.c.obj	773fc8dd5ae642fb
-70	139	7367727066746157	Partiel_Programmation.exe	399c39e026235345
-2	65	7367727950117819	CMakeFiles/Partiel_Programmation.dir/main.c.obj	773fc8dd5ae642fb
-65	133	7367727950757206	Partiel_Programmation.exe	399c39e026235345
+69	145	7367748783525433	Partiel_Programmation.exe	399c39e026235345
+1	138	7367749257446929	build.ninja	e3ae243533c9c54f
+3	86	7367750944687720	CMakeFiles/Partiel_Programmation.dir/main.c.obj	773fc8dd5ae642fb
+86	172	7367750945519168	Partiel_Programmation.exe	399c39e026235345
